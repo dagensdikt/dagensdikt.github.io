@@ -1,6 +1,6 @@
 # Dagens dikt
 
-Dagens dikt är en samling (nästan dagliga) dikter om livet och litet annat.
+Dagens dikt är en samling dikter om livet och litet annat.
 
 [https://dagensdikt.github.io](https://dagensdikt.github.io)
 
